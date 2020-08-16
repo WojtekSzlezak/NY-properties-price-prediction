@@ -32,7 +32,7 @@ Project code is avalaible in 'NY_properties_price_prediction.ipynb' file. To exe
 
 # Project description
 
-The goal of the project was to create an effective model being able to predict New York properties market prices. Dataset used in the project is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-month period (2016-09-01 till 2017-08-31). Dataset consists of 22 self-described columns.
+The goal of the project was to create an effective model being able to predict New York properties market prices. Dataset used in the project is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-months period (2016-09-01 till 2017-08-31). Dataset consists of 22 self-described columns.
 
 The project consists of three parts: data cleaning, exploratory data analysis and machine learning.
 
