@@ -17,6 +17,7 @@ Following packages were used:
 - Matplotlib 3.2.2
 - Seaborn 0.10.1
 - Joblib 0.16.0
+- Xgboost 0.90
 
 ### Software
 
@@ -24,7 +25,7 @@ Project was created using Google Colaboratory and this is recommended environmen
 
 ### Data
 
-Dataset used in the project is attached to the repository files. Please download 'nyc-rolling-sales.csv' directly from github and upload it to your Google Colaboratory notebook working files using 'Upload to session storage' button in 'Files' section.
+Dataset used in the project is attached to the repository files. Please download 'nyc-rolling-sales.csv' directly from repository and upload it to your Google Colaboratory notebook working files using 'Upload to session storage' button in 'Files' section.
 
 ### Code
 
@@ -38,6 +39,6 @@ The project consists of three parts: data cleaning, exploratory data analysis an
 
 # Summary
 
-Best results from all of the models used in the project (linear regression, decision tree regression, random forest regression) was achieved by random forest regression. The r2 score and mean absolute error metrics were used to evaluate models.
+Best results from all of the models used in the project (linear regression, decision tree regressor random forest regressor, XGBoost regressor) was achieved by XGBoost regressor. The r2 score and mean absolute error metrics were used to evaluate models.
 
 The best model obtained about 70% in the f1 score metric.
