@@ -41,4 +41,4 @@ The project consists of three parts: data cleaning, exploratory data analysis an
 
 Best results from all of the models used in the project (linear regression, decision tree regressor random forest regressor, XGBoost regressor) were achieved by XGBoost regressor. The r2 score and mean absolute error metrics were used to evaluate models.
 
-The best model obtained about 70% in the f1 score metric.
+The best model obtained about 70-71% in the R2 score metric.
